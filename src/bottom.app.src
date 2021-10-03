@@ -1,0 +1,14 @@
+{application, bottom,
+ [{description, "Erlang library implementing the bottom specification"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {licenses, ["WTFPL"]},
+  {links, []}
+ ]}.
