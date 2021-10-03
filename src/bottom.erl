@@ -1,6 +1,6 @@
 -module(bottom).
 -license("WTFPL").
--author("portasynthinca3")
+-author("portasynthinca3").
 
 -export([encode/1, decode/1]).
 

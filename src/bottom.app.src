@@ -1,6 +1,6 @@
 {application, bottom,
  [{description, "Erlang library implementing the bottom specification"},
-  {vsn, "0.1.0"},
+  {vsn, "0.1.1"},
   {registered, []},
   {applications,
    [kernel,
