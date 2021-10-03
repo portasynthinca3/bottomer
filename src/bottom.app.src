@@ -10,5 +10,6 @@
   {modules, []},
 
   {licenses, ["WTFPL"]},
-  {links, []}
+  {pkg_name, "bottomer"},
+  {links, [{"github", "https://github.com/portasynthinca3/bottomer"}]}
  ]}.
